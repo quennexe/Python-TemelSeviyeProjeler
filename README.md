@@ -1,4 +1,4 @@
-# Python-TemelSeviyeProjeler
+# Python-TemelSeviyeProjeler - 1. Kısım
 
 
 
